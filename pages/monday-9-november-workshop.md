@@ -1,9 +1,9 @@
-I will update this page as I am preparing the workshop.
+<https://uobhub.org/hub/user-redirect/git-pull?repo=https%3A//github.com/uob-cfd/simulation&subPath=simulation.ipynb>
 
 <https://matthew-brett.github.io/cfd2020/data-frames/boolean_indexing.html>
 
-<https://matthew-brett.github.io/cfd2020/data-frames/data_frames.html>
+<https://uobhub.org/hub/user-redirect/git-pull?repo=https%3A//github.com/uob-cfd/boolean_arrays&subPath=boolean_arrays.ipynb>
 
-<https://matthew-brett.github.io/cfd2020/data-frames/data_frame_intro.html>
+ 
 
-<https://matthew-brett.github.io/cfd2020/data-frames/df_series_arrays.html>
+ 

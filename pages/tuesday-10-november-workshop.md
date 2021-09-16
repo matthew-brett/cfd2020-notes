@@ -1,13 +1,7 @@
-I will update this page as I am preparing the workshop.
+<https://uobhub.org/hub/user-redirect/git-pull?repo=https%3A//github.com/uob-cfd/simulation&subPath=simulation.ipynb>[](https://uobhub.org/hub/user-redirect/git-pull?repo=https%3A//github.com/uob-cfd/boolean_arrays&subPath=boolean_arrays.ipynb)[](https://matthew-brett.github.io/cfd2020/data-frames/data_frames.html){.uri}
 
-<https://matthew-brett.github.io/cfd2020/permutation/permutation.html>
+<https://matthew-brett.github.io/cfd2020/data-frames/data_frame_intro.html>
 
-<https://matthew-brett.github.io/cfd2020/permutation/numpy_append.html>
+<https://uobhub.org/hub/user-redirect/git-pull?repo=https%3A//github.com/uob-cfd/data_frames&subPath=data_frames.ipynb>
 
-<https://matthew-brett.github.io/cfd2020/permutation/population_permutation.html>
-
-<https://matthew-brett.github.io/cfd2020/permutation/brexit_ages.html>
-
-<https://matthew-brett.github.io/cfd2020/permutation/permutation_idea.html>
-
-<https://matthew-brett.github.io/cfd2020/permutation/permutation_and_t_test.html>
+ 
